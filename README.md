@@ -1,8 +1,5 @@
 # matthewdev1104_PS-5
-
- ![Team matthewdev1104 (1)](https://user-images.githubusercontent.com/16835617/155913588-491e5e8e-b914-4013-88b1-afe187d20fd9.png)
-
-this repo contains the solution created by matthewdev1104 made during the hackaton organized by codeutsava
+This repo contains the solution created by matthewdev1104 made during the hackaton organized by codeutsava
 
 
 # Problem Statement:
