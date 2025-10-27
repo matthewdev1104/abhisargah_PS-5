@@ -33,7 +33,7 @@ class LoginScreen extends StatelessWidget {
                     ),
                     SizedBox(height: 20),
                     Text(
-                      'HEY THERE !!!  \n WELCOME TO ABHISARGAH \N MENTAL HEALTH APP',
+                      'HEY THERE !!!  \n WELCOME TO MATTHEW HEALTH \N MENTAL HEALTH APP',
                       style: TextStyle(
 
                         fontSize: 40,

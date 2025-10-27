@@ -1,4 +1,4 @@
-import 'package:abhisargah_health_app/screens/yoga/yoga_card.dart';
+import 'package:matthew_health_app/screens/yoga/yoga_card.dart';
 import 'package:flutter/material.dart';
 
 class YogaScreen extends StatefulWidget {

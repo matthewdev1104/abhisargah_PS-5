@@ -1,4 +1,4 @@
-import 'package:abhisargah_health_app/screens/meditation/mediatation.dart';
+import 'package:matthew_health_app/screens/meditation/mediatation.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
